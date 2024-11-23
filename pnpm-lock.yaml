@@ -8,6 +8,9 @@ importers:
 
   .:
     dependencies:
+      fs-extra:
+        specifier: ^11.2.0
+        version: 11.2.0
       react:
         specifier: ^18.3.1
         version: 18.3.1
